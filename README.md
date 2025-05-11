@@ -3,7 +3,7 @@
 ## Autor
 
 **Nombre:** Pablo Sánchez Rebull  
-**Universidad:** Universidad oberta de Catalunya, Grado en Multimedia  
+**Universidad:** Universitat Oberta de Catalunya, Grado en Multimedia  
 **Asignatura:** Cultura Digital  
 **Fecha:** Mayo de 2025
 
