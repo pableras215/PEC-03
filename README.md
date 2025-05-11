@@ -1,5 +1,5 @@
 # PEC-03: Visionando el futuro con las gafas de Manovich
----
+
 ## Autor
 
 **Nombre:** Pablo Sánchez Rebull  
