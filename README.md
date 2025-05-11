@@ -11,7 +11,8 @@
 
 ## Planteamiento
 
-En este trabajo se analizan dos casos contemporáneos de hibridación moderna desde la perspectiva de Lev Manovich, autor de *El lenguaje de los nuevos medios*. Se seleccionan dos ejemplos de software cultural que combinan múltiples formas mediáticas para ofrecer experiencias digitales ricas y no lineales: *The Museum of the World* y *Assassin’s Creed: Discovery Tour*.
+La hibridación de medios, según Lev Manovich, consiste en la fusión de distintos lenguajes, formatos o tecnologías para crear nuevas formas mediáticas que no se limitan a ser simplemente "multimedia" o una evolución lineal, sino que forman una entidad nueva, compuesta por códigos, interfaces y lógicas distintas que se entrecruzan.
+En este trabajo se analizan y se seleccionan dos ejemplos de software cultural que combinan múltiples formas mediáticas para ofrecer experiencias digitales ricas y no lineales: *The Museum of the World* y *Assassin’s Creed: Discovery Tour*.
 
 ---
 
