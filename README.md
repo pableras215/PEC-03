@@ -1,4 +1,4 @@
-# PEC-03: Visionando el futuro con las gafas de Manovich
+e# PEC-03: Visionando el futuro con las gafas de Manovich
 ## Autor
 
 **Nombre:** Pablo Sánchez Rebull  
@@ -46,7 +46,7 @@ Desde la perspectiva de Lev Manovich, este caso representa una poderosa forma de
 
 - **Base de datos como forma cultural**: El contenido está organizado en módulos o rutas temáticas que el jugador puede activar libremente. No hay un orden jerárquico ni un objetivo final, sino una exploración no lineal del conocimiento, propia de las estructuras basadas en bases de datos.
 
-- **Hibridación de medios**: El proyecto combina diseño de videojuegos, animación 3D, texto informativo, narración guiada, sonido ambiental y reconstrucción histórica digital. Esta fusión da lugar a un nuevo tipo de medio que mezcla entretenimiento y pedagogía.
+- **Hibridación de medios**: El proyecto combina diseño de videojuegos, animación 3D, texto informativo, narración guiada, sonido ambiental y reconstrucción histórica digital. Esta fusión da lugar a un nuevo tipo de medio que mezcla entretenimiento y enseñanza.
 
 - **Interfaz cultural**: El videojuego se convierte en una interfaz para acceder a contenidos culturales. La exploración libre del mundo virtual simula una visita a un museo viviente, en el que el usuario es a la vez espectador y agente.
 
