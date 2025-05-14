@@ -1,5 +1,4 @@
-# PEC-03: Reto hibridación
-
+# PEC-03: Visionando el futuro con las gafas de Manovich
 ## Autor
 
 **Nombre:** Pablo Sánchez Rebull  
@@ -34,7 +33,7 @@ Desde la perspectiva de Manovich, este proyecto representa un caso ejemplar de s
 
 En resumen, *The Museum of the World* representa un ejemplo claro de cómo los nuevos medios no solo reproducen los formatos existentes, sino que los transforman en estructuras interactivas, navegables, no lineales, profundamente influenciadas por el software y sus lógicas culturales.
 
----
+![Gran Corte del Museo Británico](https://guidelinestobritain.com/wp-content/uploads/2018/09/British-Museum-in-London_-Great-Court.jpg)
 
 
 ## Ejemplo 2: Assassin’s Creed: Discovery Tour
@@ -57,16 +56,23 @@ Desde la perspectiva de Lev Manovich, este caso representa una poderosa forma de
 
 En conjunto, *Discovery Tour* convierte una franquicia de entretenimiento en una herramienta de aprendizaje cultural, ejemplificando cómo los nuevos medios permiten reformular narrativas históricas desde una lógica digital, participativa y descentralizada.
 
+![Portada Assassin's Creed Discovery Tour](https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78etG0F8Ryr4YXgsiSm0Ic/f26476cef8dd239b68f9cdf53e6066ee/ac-discovery-tour-mashup-keyart-full_bleed_promo-bg-desktop.jpg)
 
----
 
 ## Conclusión
 Desde una perspectiva personal, la elección de **The Museum of the World** y **Assassin’s Creed: Discovery Tour** como casos de estudio estuvo motivada por mi profundo **interés en el Antiguo Egipto**. Ambos ejemplos me ofrecieron formas innovadoras de explorar esa fascinación histórica a través de los nuevos medios. El British Museum, famoso por su colección egipcia, trasladó sus tesoros a una plataforma digital interactiva, permitiéndome _navegar_ por miles de artefactos egipcios dispersos en el tiempo y el espacio. Por otro lado, la modalidad Discovery Tour de _Assassin’s Creed: Origins_ me proporcionó la experiencia inédita de viajar virtualmente a Egipto en la época ptolemaica: pude caminar por Alejandría, adentrarme en templos y pirámides, y observar la vida cotidiana de la antigua civilización, todo ello guiado por explicaciones históricas integradas en el juego. Como apasionado de la Egiptología, encontrarme _dentro_ de esos escenarios (ya sea contemplando en detalle un amuleto funerario del British Museum en la pantalla de mi ordenador, o recorriendo las orillas del Nilo en un mundo 3D inmersivo) supuso una forma de conexión con el pasado mucho más vívida y rica de lo que hubiese logrado leyendo un libro o viendo un documental tradicional, y es prueba de que la hibridación moderna no solo expande los límites de la comunicación cultural, sino que también profundiza nuestra conexión individual con la historia, haciendo del aprendizaje una experiencia más significativa, accesible y memorable.
 
 ---
 
-## Referencias
+## Referencias y bibliografía
 
 - Manovich, L. (2013). El software toma el mando. Barcelona: Editorial UOC.
 - The Museum of the World: https://experiments.withgoogle.com/the-museum-of-the-world
 - Assassin’s Creed Discovery Tour: https://www.ubisoft.com/es-es/game/assassins-creed/discovery-tour
+- 10 Datos sobre el Museo Británico en Londres: https://guidelinestobritain.com/museums-art-galleries/facts-about-the-british-museum-in-london/
+
+**Imágenes:**
+- The Great Court at the British Museum in London. Photo Credit: [© Diliff via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg)
+- Portada Assassin's Creed Discovery Tour. Fuente: [Ubisoft](https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78etG0F8Ryr4YXgsiSm0Ic/f26476cef8dd239b68f9cdf53e6066ee/ac-discovery-tour-mashup-keyart-full_bleed_promo-bg-desktop.jpg)
+
+  
